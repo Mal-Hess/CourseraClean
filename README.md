@@ -1,6 +1,9 @@
 # CourseraClean
 This is for the Coursera getting and cleaning class.  Below is the assignment instructions.
 
+The code works by reading in all the tables.  Making sure the variables are properly named so when they are combined it matches up patients and activities properly.
+I then combine the data into a subset.  Then clean and organize that subset into the "clean" subset which also has the means and standard deviations of each variable for a given patient and activity.
+Lastly I write this to a txt file.
 
 
 
